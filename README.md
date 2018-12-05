@@ -1,7 +1,7 @@
 # slicing
 Slicing JPG to HMTL CSS
 
-1. The JPG images are in "images" folder of this repo.
+1. The JPG images are in "image" folder of this repo.
 2. Create git branch with you name, then pull or push with that branch.
 3. Please slice the JPG file to HMTL CSS.
 4. Please use any SCSS framework to fasten your work. For example Sussy. But Bootstrap is not allowed.
