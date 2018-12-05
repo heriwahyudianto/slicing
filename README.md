@@ -12,5 +12,6 @@ Slicing JPG to HMTL CSS
 9. As an option, you can use Firebase to hosting your work and then please email the URL to jeffrey.nijstad@flock.company, CC to heriwahyudianto@flock.company
 
 * Will be bonus if you can do it with google AMP
+* What we concern are about layouting, workflow (sass), nice code and structure and then some “basic” interactions with or without jQuery.
 
 If you have any further question, please ask heriwahyudianto@flock.company with "ask for flock developer test" as a subject
